@@ -1,0 +1,13 @@
+chainlit
+langchain
+langchain_community
+langchain_ollama
+langchainhub
+PyPDF2
+pypdf
+chromadb
+requests
+python-dotenv
+pdf2image
+pillow
+pytesseract
